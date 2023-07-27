@@ -1,0 +1,18 @@
+[id] {
+    scroll-margin-top: 3.8em;
+}
+
+.map {
+    overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
+}
+
+.map iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
